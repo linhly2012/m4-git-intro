@@ -1,3 +1,6 @@
+Hannah Pittman - oatmeal and smoothie.
+Linh Ly - Vietnamese sandwich and Starbucks. 
+
 # Module 4: Introduction to Git and GitHub
 
 ## Overview
